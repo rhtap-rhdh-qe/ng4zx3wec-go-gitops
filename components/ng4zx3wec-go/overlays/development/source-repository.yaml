@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ng4zx3wec-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ng4zx3wec-go
